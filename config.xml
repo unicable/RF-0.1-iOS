@@ -9,7 +9,7 @@
 <author href="http://www.radiofiestafm.com.ar" email="info@radiofiestafm.com.ar">
 MF
 </author>
-<description>Radio Fiesta FM - Jujuy, Argentina - Version 0.1</description>
+<description>Radio Fiesta FM - Jujuy, Argentina - Version 0.1 iOS</description>
 
 <gap:splash src="splash.png" />
 <gap:splash src="res/splash/ios/Default.png" width="320" height="480" />
